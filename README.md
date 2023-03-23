@@ -1,4 +1,4 @@
-# Laboratory-Activity-No.-04-DE VALE
+# Laboratory-Activity-No-04-DE VALE
 
 Step-By-Step Lab Activity Instructions: To complete this laboratory activity, please complete all of the following requirements:
 
